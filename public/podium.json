@@ -1,0 +1,29 @@
+[
+    {
+      "rank": 1,
+      "car": "Mercedes-AMG One",
+      "driver": "Maro Engel",
+      "lapTime": "6:30.70",
+      "horsepower": 1063,
+      "maxHorsepower": 1720,
+      "image":"/images/mercedes-amg-one-2.jpg"
+    },
+    {
+      "rank": 2,
+      "car": "911 GT2 RS Manthey Performance",
+      "driver": "Lars Kern",
+      "lapTime": "6:38.84",
+      "horsepower": 700,
+      "maxHorsepower": 1440,
+      "image":"/images/porsche-911-gt2-rs-manthey-performance-kit.jpg"
+    },
+    {
+      "rank": 3,
+      "car": "McLaren P1 LM",
+      "driver": "Kenny Brack",
+      "lapTime": "6:43.20",
+      "horsepower": 1000,
+      "maxHorsepower": 1390,
+      "image":"/images/mclaren-p1-lm.jpg"
+    }
+  ]
