@@ -10,10 +10,10 @@ const Podium = () => {
   }, [])
 
   return (
-    <div>
+    <div id="podiumContainer">
       {podium.map(item => 
-        <div>
-          <h1>{item.car}</h1>
+        <div className={`rank-${item.rank}`} id="podiumItem">
+          <h2>{item.car}</h2>
           <img src={item.image} alt="" />
         </div>
       )}
